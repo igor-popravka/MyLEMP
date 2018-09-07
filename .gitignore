@@ -1,0 +1,4 @@
+etc/nginx/conf.d/*-conf.conf
+data
+logs
+.env
